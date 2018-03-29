@@ -14,6 +14,7 @@
 #include "ofMain.h"
 #include "ofxCvConstants.h"
 #include "ofxCvGrayscaleImage.h"
+#include "opencv2/legacy/legacy.hpp"
 
 class ofxCvOpticalFlowLK
 {
